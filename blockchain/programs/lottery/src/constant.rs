@@ -1,3 +1,3 @@
-pub const MASTER_SEED = "master"
-pub const LOTTERY_SEED = "lottery"
-pub const TICKET_SEED = "ticket"
+pub const MASTER_SEED: &str= "master";
+pub const LOTTERY_SEED:&str = "lottery";
+pub const TICKET_SEED:&str = "ticket";
